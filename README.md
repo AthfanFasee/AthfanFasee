@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @AthfanFasee
-- 👀 I’m interested in ... Full stack development and learning new stuffs
-- 🌱 I’m currently learning ... nodejs and mongoDB
+- I'm a Full Stack Developer, who's actively looking for a jon
+- 👀 I’m interested in ... Web Development and learning new stuffs
+- 🌱 I’m currently learning ... TypeScript and MySQL
 - 💞️ I’m looking to collaborate on ... Co-learners
 - 📫 How to reach me ... +94755817048(feel free to what's app) or Athfan Fasee in fb and twitter
+- My Portfolio(https://620f1acf9043f700071baf53--condescending-swanson-61b842.netlify.app/)
 
 <!---
 AthfanFasee/AthfanFasee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
