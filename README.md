@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AthfanFasee
-- I'm a Full Stack Developer, who's actively looking for a jon
+- I'm a Full Stack Developer, who's actively working as a dev
 - 👀 I’m interested in ... Web Development and learning new stuffs
 - 🌱 I’m currently learning ... TypeScript and MySQL
 - 💞️ I’m looking to collaborate on ... Co-learners
