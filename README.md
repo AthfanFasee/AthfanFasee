@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... Web Development and learning new stuffs
 - 🌱 I’m currently learning ... TypeScript and MySQL
 - 💞️ I’m looking to collaborate on ... Co-learners
-- 📫 How to reach me ... +94755817048(feel free to what's app) or Athfan Fasee in fb and twitter
+- 📫 How to reach me ... +94755817048(feel free to WhatsApp) or Athfan Fasee in twitter
 - My Portfolio(https://620f1acf9043f700071baf53--condescending-swanson-61b842.netlify.app/)
 
 <!---
