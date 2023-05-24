@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Golang
 - 💞️ I’m looking to collaborate on ... Co-learners
 - 📫 How to reach me ... +94755817048 (feel free to WhatsApp) or Athfan Fasee in Twitter
-- 📫 My Portfolio(https://620f1acf9043f700071baf53--condescending-swanson-61b842.netlify.app/)
+- 📫 My Portfolio(https://athfan.netlify.app/)
 
 <!---
 AthfanFasee/AthfanFasee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
