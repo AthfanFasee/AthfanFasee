@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AthfanFasee
-- ✨ I'm a Full Stack Developer, who's actively working as a BackEnd Engineer
+- ✨ I'm actively working as a BackEnd Engineer
 - 🌱 I’m currently learning ... Kubernetes, Haskell, Terraform
 - 📫 How to reach me ... +94755817048 (feel free to WhatsApp) or Athfan Fasee on Twitter
 - 📫 My Portfolio(https://athfan.netlify.app/)
