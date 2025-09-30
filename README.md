@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact - I love science even more than I love technology!!
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
