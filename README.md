@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Athfan Fasee</h1>
 <h3 align="center">I'm actively working as a BackEnd Engineer</h3>
 
-- 🌱 I’m currently learning **- Kubernetes, Haskell, Terraform**
+- 🌱 I’m currently learning - Kubernetes, Haskell, Terraform
 
-- 👨‍💻 All of my projects are available at [https://athfan.netlify.app/](https://athfan.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://athfan.netlify.app/)
 
-- 📫 How to reach me **- +94755817048 (feel free to WhatsApp)**
+- 📫 How to reach me - +94755817048 (feel free to WhatsApp)
 
-- 📄 Know about my experiences [at https://www.linkedin.com/in/athfan-fasee-a19a91275/](at https://www.linkedin.com/in/athfan-fasee-a19a91275/)
+- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/athfan-fasee-a19a91275/)
 
-- ⚡ Fun fact **- I love science even more than I love technology!!**
+- ⚡ Fun fact - I love science even more than I love technology!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
