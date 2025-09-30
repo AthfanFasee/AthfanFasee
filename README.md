@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning - Kubernetes, Haskell, Terraform
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://athfan.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://athfan.netlify.app/)
 
 - 📫 How to reach me - +94755817048 (feel free to WhatsApp)
 
