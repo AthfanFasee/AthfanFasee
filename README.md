@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Athfan Fasee</h1>
 <h3 align="center">I'm actively working as a BackEnd Engineer</h3>
 
-- 🌱 I’m currently learning - Kubernetes, Kotlin, Terraform
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://athfan.netlify.app/)
 
 - 📫 How to reach me - +94755817048 (feel free to WhatsApp) or mail me at aththaar47@gmail.com
 
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/athfan-fasee-a19a91275/)
+
+- 🌱 I’m currently learning - Kubernetes, Kotlin, Terraform
 
 - ⚡ Fun fact - I love science even more than I love technology!!
 <br><br>
