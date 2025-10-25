@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://athfan.netlify.app/)
 
-- 📫 How to reach me - +94755817048 (feel free to WhatsApp) or mail me at aththaar47@gmail.com
-
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/athfan-fasee-a19a91275/)
+
+- 📫 How to reach me - +94755817048 (feel free to WhatsApp) or mail me at aththaar47@gmail.com
 
 - 🌱 I’m currently learning - Kubernetes, Kotlin, Terraform
 
