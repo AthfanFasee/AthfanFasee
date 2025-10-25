@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Athfan Fasee</h1>
 <h3 align="center">I'm actively working as a BackEnd Engineer</h3>
 
-- 🌱 I’m currently learning - Kubernetes, Haskell, Terraform
+- 🌱 I’m currently learning - Kubernetes, Kotlin, Terraform
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://athfan.netlify.app/)
 
