@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Athfan Fasee</h1>
 <h3 align="center">I'm actively working as a BackEnd Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://athfan.netlify.app/)
+- 👨‍💻 All of my projects are available at - [My Portfolio](https://athfan.netlify.app/)
 
-- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/athfan-fasee-a19a91275/)
+- 📄 Know about my experiences on my - [LinkedIn](https://www.linkedin.com/in/athfan-fasee-a19a91275/)
 
 - 📫 How to reach me - +94755817048 (feel free to WhatsApp) or mail me at aththaar47@gmail.com
 
